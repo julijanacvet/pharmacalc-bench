@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it using the metadata below."
+type: software
+title: "PharmaCalc-Bench"
+abstract: >-
+  A benchmark of computational pharmacology problems. Each task pairs a
+  self-contained problem with a Python reference solution that computes the
+  ground truth, an AI model answer, and a written expert critique of that
+  answer.
+authors:
+  - family-names: Cvetkovska
+    given-names: Julijana
+    affiliation: "Independent Researcher"
+version: "0.1.0"
+license: MIT
+repository-code: "https://github.com/julijanacvet/pharmacalc-bench"
+keywords:
+  - pharmacology
+  - pharmacokinetics
+  - benchmark
+  - AI evaluation
+  - medication safety
